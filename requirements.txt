@@ -1,0 +1,6 @@
+datasets>=2.19.0
+pillow>=10.0.0
+tqdm
+pandas
+python-dotenv
+requests
